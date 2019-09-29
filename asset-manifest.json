@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Cocktails-app/static/css/main.47f12431.chunk.css",
+    "main.js": "/Cocktails-app/static/js/main.b429d2c6.chunk.js",
+    "main.js.map": "/Cocktails-app/static/js/main.b429d2c6.chunk.js.map",
+    "runtime~main.js": "/Cocktails-app/static/js/runtime~main.d1cbc9d3.js",
+    "runtime~main.js.map": "/Cocktails-app/static/js/runtime~main.d1cbc9d3.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/Cocktails-app/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.dd56b192.chunk.js": "/Cocktails-app/static/js/2.dd56b192.chunk.js",
+    "static/js/2.dd56b192.chunk.js.map": "/Cocktails-app/static/js/2.dd56b192.chunk.js.map",
+    "index.html": "/Cocktails-app/index.html",
+    "precache-manifest.eb532671988c311e9d474e3444809a94.js": "/Cocktails-app/precache-manifest.eb532671988c311e9d474e3444809a94.js",
+    "service-worker.js": "/Cocktails-app/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/Cocktails-app/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.47f12431.chunk.css.map": "/Cocktails-app/static/css/main.47f12431.chunk.css.map",
+    "static/media/cocktails-image.jpg": "/Cocktails-app/static/media/cocktails-image.25de97e7.jpg"
+  }
+}
